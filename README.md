@@ -1,4 +1,4 @@
-# 🧑‍🎓 Student-Grade-Calculator
+# 🧑‍🎓 Student-Grade-Calculator 🖩
 
 <p>Write a program in java where in a class there are n number of students with 5 different subjects. Student grade need to be evaluated based upon percentage marks overall. Input for marks against subject can be taken but mid terms marks can be directly entered with the fixed weighted. If a student scored 80 and above grade is A, 60 - 79 is B, 40 - 59 is C , Below 40 is D. The result sheet must be shown in a tabular format.</p>
 
